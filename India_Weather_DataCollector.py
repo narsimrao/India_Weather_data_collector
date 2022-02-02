@@ -9,7 +9,7 @@ try:
   import sys
   import datetime
 
-  district_df = pd.read_csv('Districts_in_india.csv')
+  district_df = pd.read_csv('Districts.csv')
 
   districts_all = district_df.iloc[:,1].values
 
