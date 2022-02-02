@@ -5,7 +5,7 @@
 - Districts.csv can be modified to fetch the weather details of the locations as per our need.
 - District_in_india.csv file has all the districts in india listed.
 
-##Output
+## Output
 Output is generated in weather.csv File.
 
 ## Data is collected from Weather API
